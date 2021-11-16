@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarath999
-- 👀 I’m interested in ...
+- 👀 I’m interested in new technolgies and tools
 - 🌱 I’m currently learning go language
 - 💞️ I’m looking to collaborate on python modules and devops
 - 📫 How to reach me sarathchandra.bobba@gmail.com
